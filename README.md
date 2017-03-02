@@ -3,3 +3,5 @@
 > Autor roberthir
 ## opis projektu
 projekt lekcja 2
+
+Ciekawy projekt
